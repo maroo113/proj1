@@ -1,1 +1,11 @@
-programing project for unit9
+![icon-headset](https://github.com/user-attachments/assets/cd390f9e-4523-4d44-861c-09b2cd1be205)
+![icon-message](https://github.com/user-attachments/assets/53e66153-3089-43f1-b7bd-edca20061229)![hero-bg](https://github.com/user-attachments/assets/dfbd5416-237d-4753-bf8e-a5d7fe509bca)
+[proj1.html](https://github.com/user-attachments/files/23423198/proj1.html)
+[proj1.css](https://github.com/user-attachments/files/23423197/proj1.css)
+![portfolio- (6)](https://github.com/user-attachments/assets/010f2bf9-8e0d-4324-8ba7-687891876af7)
+![portfolio- (5)](https://github.com/user-attachments/assets/0075d3bb-97ca-4f54-aba5-d7427995bef0)
+![portfolio- (4)](https://github.com/user-attachments/assets/9f16e935-3007-4593-b1b5-f563c97bb5ff)
+![portfolio- (3)](https://github.com/user-attachments/assets/b8c975b3-7681-44d8-82d2-64577acab891)
+![portfolio- (2)](https://github.com/user-attachments/assets/75add604-2d1c-4cbc-be1f-43603edba711)
+![portfolio- (1)](https://github.com/user-attachments/assets/d35d4643-e9d4-4fa5-b207-544431429146)
+![icon-phone](https://github.com/user-attachments/assets/15448790-d59c-48c9-b1a8-ebed31d5437d)
