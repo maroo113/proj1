@@ -1,11 +1,79 @@
-![icon-headset](https://github.com/user-attachments/assets/cd390f9e-4523-4d44-861c-09b2cd1be205)
-![icon-message](https://github.com/user-attachments/assets/53e66153-3089-43f1-b7bd-edca20061229)![hero-bg](https://github.com/user-attachments/assets/dfbd5416-237d-4753-bf8e-a5d7fe509bca)
-[proj1.html](https://github.com/user-attachments/files/23423198/proj1.html)
-[proj1.css](https://github.com/user-attachments/files/23423197/proj1.css)
-![portfolio- (6)](https://github.com/user-attachments/assets/010f2bf9-8e0d-4324-8ba7-687891876af7)
-![portfolio- (5)](https://github.com/user-attachments/assets/0075d3bb-97ca-4f54-aba5-d7427995bef0)
-![portfolio- (4)](https://github.com/user-attachments/assets/9f16e935-3007-4593-b1b5-f563c97bb5ff)
-![portfolio- (3)](https://github.com/user-attachments/assets/b8c975b3-7681-44d8-82d2-64577acab891)
-![portfolio- (2)](https://github.com/user-attachments/assets/75add604-2d1c-4cbc-be1f-43603edba711)
-![portfolio- (1)](https://github.com/user-attachments/assets/d35d4643-e9d4-4fa5-b207-544431429146)
-![icon-phone](https://github.com/user-attachments/assets/15448790-d59c-48c9-b1a8-ebed31d5437d)
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STRICT</title>
+  <link rel="stylesheet" href="proj1.css">
+</head>
+<body>
+
+
+  <header>
+    <h1>STRICT</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+ 
+  <section class="hero">
+    <h2>Welcome to STRICT</h2>
+    <p>Clean and simple design for everyone.</p>
+  </section>
+
+  <
+  <section class="features">
+    <div class="feature">
+      <img src="icon-phone.png" alt="Phone">
+      <h3>Optimized for all devices</h3>
+      <p>Our design works perfectly on all screens.</p>
+    </div>
+
+    <div class="feature">
+      <img src="icon-headset.png" alt="Headset">
+      <h3>Clean & Minimal Design</h3>
+      <p>Simple layout that focuses on your content.</p>
+    </div>
+
+    <div class="feature">
+      <img src="icon-message.png" alt="Message">
+      <h3>Easy Communication</h3>
+      <p>Stay connected with your clients anytime.</p>
+    </div>
+  </section>
+
+
+  <section id="portfolio" class="portfolio">
+    <h2>Our Portfolio</h2>
+    <div class="gallery">
+      <img src="portfolio- (1).jpg" alt="">
+      <img src="portfolio- (2).jpg" alt="">
+      <img src="portfolio- (3).jpg" alt="">
+      <img src="portfolio- (4).jpg" alt="">
+      <img src="portfolio- (5).jpg" alt="">
+      <img src="portfolio- (6).jpg" alt="">
+    </div>
+  </section>
+
+
+ <section id="contact" class="contact">
+  <h2>Contact Us</h2>
+  <form>
+    <input type="text" placeholder="Full Name">
+    <input type="email" placeholder="Email">
+    <textarea placeholder="Message"></textarea>
+    <button type="submit">Send</button>
+  </form>
+</section>
+
+
+
+  <footer>
+    <p>© 2025 STRICT. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
